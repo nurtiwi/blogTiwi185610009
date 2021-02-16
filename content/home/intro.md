@@ -11,7 +11,7 @@ design:
     color: "#090a0b"
     text_color_light: true
     image_darken: ""
-  columns: "2"
+  columns: "3"
 ---
 <!--StartFragment-->
 
